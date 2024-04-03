@@ -1,2 +1,2 @@
-# Smart_Home
+# Smart_Home AVR
 Firstly the user enters a user number and password. If the password is incorrect, the user has two more attempts. Upon entering the correct password, a door (servo motor) opens, and the user can check temperature with an LM35 sensor and light intensity with an LDR sensor. If the temperature is 26 degrees or higher, a fan (DC motor) turns on. The number of LEDs displayed is influenced by the LDR sensor. UART communication protocol is used to connect two MCUs
